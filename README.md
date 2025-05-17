@@ -101,6 +101,3 @@ This project provides a comprehensive analysis and visualization of the Nifty 50
 ✅ Data validation (Ensuring accuracy & completeness)
 ✅ Optimized SQL queries for large datasets
 ✅ Comprehensive documentation
-
-**🤝 Contributors & Feedback**
-Feel free to contribute, raise issues, or suggest improvements! 🚀
